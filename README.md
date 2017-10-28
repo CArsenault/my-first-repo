@@ -1,28 +1,25 @@
-# This is a large heading
+# Christine Arsenault
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of East Hartford, in the state of Connecticut, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Lightning* by Dean Koontz
+- *Her Every Fear* by Peter Swanson
+- *The Power of Intention* by Dr Wayne Dyer
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. The Pub in Seattle
+2. Salute in Hartford
+3. The Melting Pot in San Diego
+
+### Contact
+
+The best way to get in touch with me is via email.
